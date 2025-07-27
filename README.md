@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<img src="https://github.com/chetan3460/chetandhargalkar/blob/main/ChatGPT%20Image%20Jul%2025,%202025,%2004_18_21%20PM.png?raw=true" />
+<img src="https://github.com/chetan3460/chetan3460/blob/main/banner.png?raw=true" />
 </p>
 
 <h1 align="center">Hi, I'm Chetan 👋</h1>
